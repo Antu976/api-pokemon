@@ -1,0 +1,141 @@
+{"level":"info","message":"Notre serveur tourne sur http://localhost:8080","service":"user-service"}
+{"level":"info","message":"route principale","service":"user-service"}
+{"level":"error","message":"Erreur lors de la récupération des pokémons : Error: You have tried to call .then(), .catch(), or invoked await on the result of query that is not a promise, which is a programming error. Try calling con.promise().query(), or require('mysql2/promise') instead of 'mysql2' for a promise-compatible version of the query interface. To learn how to use async/await or Promises check out documentation at https://sidorares.github.io/node-mysql2/docs#using-promise-wrapper, or the mysql2 documentation at https://sidorares.github.io/node-mysql2/docs/documentation/promise-wrapper","service":"user-service"}
+{"level":"error","message":"Erreur lors de la récupération des pokémons : Error: You have tried to call .then(), .catch(), or invoked await on the result of query that is not a promise, which is a programming error. Try calling con.promise().query(), or require('mysql2/promise') instead of 'mysql2' for a promise-compatible version of the query interface. To learn how to use async/await or Promises check out documentation at https://sidorares.github.io/node-mysql2/docs#using-promise-wrapper, or the mysql2 documentation at https://sidorares.github.io/node-mysql2/docs/documentation/promise-wrapper","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:8080","service":"user-service"}
+{"level":"info","message":"route principale","service":"user-service"}
+{"level":"error","message":"Erreur lors de la récupération des pokémons : TypeError: object is not iterable (cannot read property Symbol(Symbol.iterator))","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:8080","service":"user-service"}
+{"level":"info","message":"route principale","service":"user-service"}
+{"level":"error","message":"Erreur lors de la récupération des pokémons : TypeError: object is not iterable (cannot read property Symbol(Symbol.iterator))","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:8080","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:8080","service":"user-service"}
+{"level":"info","message":"route principale","service":"user-service"}
+{"level":"error","message":"Erreur lors de la récupération des pokémons : TypeError: object is not iterable (cannot read property Symbol(Symbol.iterator))","service":"user-service"}
+{"level":"error","message":"Erreur lors de la récupération des pokémons : TypeError: object is not iterable (cannot read property Symbol(Symbol.iterator))","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:8080","service":"user-service"}
+{"level":"info","message":"route principale","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:8080","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:8080","service":"user-service"}
+{"level":"info","message":"route principale","service":"user-service"}
+{"level":"error","message":"Erreur lors de la récupération des pokémons : Error: You have tried to call .then(), .catch(), or invoked await on the result of query that is not a promise, which is a programming error. Try calling con.promise().query(), or require('mysql2/promise') instead of 'mysql2' for a promise-compatible version of the query interface. To learn how to use async/await or Promises check out documentation at https://sidorares.github.io/node-mysql2/docs#using-promise-wrapper, or the mysql2 documentation at https://sidorares.github.io/node-mysql2/docs/documentation/promise-wrapper","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:8080","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:8080","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:8080","service":"user-service"}
+{"level":"info","message":"route principale","service":"user-service"}
+{"level":"info","message":"route principale","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:8080","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:8080","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:8080","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:8080","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:8080","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:8080","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:8080","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:8080","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:8080","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:8080","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:8080","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"route principale","service":"user-service"}
+{"level":"info","message":"route principale","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"route principale","service":"user-service"}
+{"level":"error","message":"le pokémon n'est pas crée: Error: Field 'id' doesn't have a default value","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"error","message":"le pokemon n'a pas été crée : Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'identifier, species_id, height, weight, base_experience, `order`, is_default)...' at line 1","service":"user-service"}
+{"level":"info","message":"route principale","service":"user-service"}
+{"level":"error","message":"le pokemon n'a pas été crée : Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'identifier, species_id, height, weight, base_experience, `order`, is_default)...' at line 1","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"route principale","service":"user-service"}
+{"level":"error","message":"le pokemon n'a pas été crée : Error: Column count doesn't match value count at row 1","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"route principale","service":"user-service"}
+{"level":"error","message":"le pokemon n'a pas été crée : Error: Column 'id' cannot be null","service":"user-service"}
+{"level":"error","message":"le pokemon n'a pas été crée : Error: Column 'id' cannot be null","service":"user-service"}
+{"level":"error","message":"le pokemon n'a pas été crée : Error: Column 'id' cannot be null","service":"user-service"}
+{"level":"info","message":"route principale","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"route principale","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"route principale","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Route principale","service":"user-service"}
+{"level":"error","message":"Erreur lors de la récupération des pokémons : Error: Access denied for user ''@'localhost'","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Route principale","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Route principale","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Route principale","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Route principale","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Route principale","service":"user-service"}
+{"level":"info","message":"Route principale","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Route principale","service":"user-service"}
+{"level":"error","message":"Le Pokémon n'a pas été créé : Error: Column 'id' cannot be null","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Route principale","service":"user-service"}
+{"level":"info","message":"Route principale","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Route principale","service":"user-service"}
+{"level":"info","message":"Route principale","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Route principale","service":"user-service"}
+{"level":"error","message":"Le Pokémon n'a pas été créé : Error: Column 'id' cannot be null","service":"user-service"}
+{"level":"error","message":"Le Pokémon n'a pas été créé : Error: Column 'id' cannot be null","service":"user-service"}
+{"level":"info","message":"Route principale","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Route principale","service":"user-service"}
+{"level":"error","message":"mis a jour échoue : Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* FROM pokemon WHERE id = 3622' at line 1","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"error","message":"mis a jour échoue : Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM pokemon WHERE id = 3622' at line 1","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"error","message":"mis a jour échoue : Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"error","message":"mis a jour échoue : Error: Incorrect integer value: 'peg' for column `POKEDEX`.`pokemon`.`species_id` at row 11","service":"user-service"}
+{"level":"error","message":"mis a jour échoue : Error: Incorrect integer value: 'pegasusrrr' for column `POKEDEX`.`pokemon`.`species_id` at row 11","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"error","message":"mis a jour échoue : Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"error","message":"mis a jour échoue : Error: Incorrect integer value: 'pegasusrrr' for column `POKEDEX`.`pokemon`.`species_id` at row 11","service":"user-service"}
+{"level":"error","message":"mis a jour échoue : Error: Incorrect integer value: 'pegasusrrr' for column `POKEDEX`.`pokemon`.`species_id` at row 11","service":"user-service"}
